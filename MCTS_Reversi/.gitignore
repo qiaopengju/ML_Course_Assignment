@@ -1,0 +1,7 @@
+*.o
+reversi
+Makefile.depend
+.DS_Store
+.vscode
+benchmark
+demonstrate
